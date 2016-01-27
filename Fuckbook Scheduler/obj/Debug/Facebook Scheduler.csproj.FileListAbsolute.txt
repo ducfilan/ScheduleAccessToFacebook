@@ -1,0 +1,10 @@
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\bin\Debug\Facebook Scheduler.exe.config
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\obj\Debug\Facebook Scheduler.csprojResolveAssemblyReference.cache
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\obj\Debug\Facebook_Scheduler.Properties.Resources.resources
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\obj\Debug\Facebook Scheduler.csproj.GenerateResource.Cache
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\bin\Debug\Facebook Scheduler.exe
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\bin\Debug\Facebook Scheduler.pdb
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\obj\Debug\Facebook Scheduler.exe
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\obj\Debug\Facebook Scheduler.pdb
+D:\DATA\Documents\Visual Studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\obj\Debug\Facebook_Scheduler.FormDialog.resources
+D:\DATA\Documents\Visual Studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\obj\Debug\Facebook_Scheduler.FacebookScheduler.resources

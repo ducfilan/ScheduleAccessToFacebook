@@ -1,0 +1,9 @@
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\bin\Debug\Fuckbook Scheduler.exe
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\bin\Debug\Fuckbook Scheduler.pdb
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\obj\Debug\Fuckbook_Scheduler.FormMain.resources
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\obj\Debug\Fuckbook_Scheduler.Properties.Resources.resources
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\obj\Debug\Fuckbook Scheduler.csproj.GenerateResource.Cache
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\obj\Debug\Fuckbook Scheduler.exe
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\obj\Debug\Fuckbook Scheduler.pdb
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\obj\Debug\Fuckbook_Scheduler.Main.resources
+d:\data\documents\visual studio 2013\Projects\FuckbookScheduler\Fuckbook Scheduler\bin\Debug\Fuckbook Scheduler.exe.config
